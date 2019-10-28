@@ -10,4 +10,4 @@ As number of layers increases the model overfits and when number of layers are l
 How CNN differs from MLP is that,in MLP we give a flattened image as a vector as input ,but in CNN we give image itself as input .we dont the concept of pooling and convolution in MlP but it is ter in CNN.
 
 # Facing error while loading IPYNB "Sorry, something went wrong. Reload?"
-please click the following link https://nbviewer.jupyter.org/github/prassena/Multi-Layered-Perceptrons/blob/master/Multi%20Layered%20Perceptrons.ipynb
+please click the following link https://nbviewer.jupyter.org/github/prassena/Convolutional-Neural-Network/blob/master/Convolutional%20Neural%20Network.ipynb
